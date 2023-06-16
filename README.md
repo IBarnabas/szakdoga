@@ -17,3 +17,5 @@ In my thesis, I first present the Flutter framework and Firebase services.
 Afterwards, I show the completed mobile application and then I describe how I 
 implemented data access, user authentication, state management, map navigation, and the 
 other technologies I used during the creation of the application
+
+**You can read my thesis in the Szakdolgozat.pdf file.**
